@@ -43,6 +43,7 @@ public class MainActivity extends AppCompatActivity {
 
         setupUIViews();
 
+//        untuk masing-masing tombol kalkulator
         zero.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
